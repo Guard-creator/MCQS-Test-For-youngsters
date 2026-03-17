@@ -13,11 +13,9 @@ A web-based Multiple Choice Question (MCQ) test platform built with **PHP** and 
 ## 📸 Screenshots
 
 | Student Dashboard | Taking Test |
-|---|---|---|
-| ![Dashboard](screenshots/student_view_1.png) | ![Test](screenshots/student_view_2t.png) |
+| ![Dashboard](screenshots/student_view_1.png) | ![Test](screenshots/student_view_2.png) |
 
 | Admin Dashboard | Manage MCQs |
-|---|---|---|
 | ![Admin](screenshots/admin_panel_1.png) | ![MCQs](screenshots/admin_panel_2.png) |
 
 ---
